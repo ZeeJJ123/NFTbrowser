@@ -1,6 +1,3 @@
-const origin = "https://deep-index.moralis.io";
-const apiKey =
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub25jZSI6IjkzOTBlYzY5LWE3NWEtNDRiOC04ZTRkLWQ0MDIwMDkwOWI1NiIsIm9yZ0lkIjoiMzQwMTg2IiwidXNlcklkIjoiMzQ5NzIxIiwidHlwZUlkIjoiMDBjYTRiYWItNDA3Yy00ZDdjLTllZTMtNGU3ZTQ4OWFhNjM0IiwidHlwZSI6IlBST0pFQ1QiLCJpYXQiOjE2ODU2NzUxOTcsImV4cCI6NDg0MTQzNTE5N30.SvyEdmMw4Gog_OCUYXBlGwN6S9yKQ84G3jf654lmqsk";
 
 // https://docs.moralis.io/reference/nft-api
 export const searchNFTs = async (searchText) => {
