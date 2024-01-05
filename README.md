@@ -14,13 +14,9 @@ NFT Browser is a cutting-edge dashboard designed to allow users to seamlessly se
 
 ## Technology Stack
 
-**Frontend**: [Your frontend technologies e.g., React, Vue, etc.]
-
-**Backend**: [Your backend technologies e.g., Node.js, Django, etc.]
-
-**Database**: [Your database choice e.g., MongoDB, PostgreSQL]
+**Frontend**: Rect
 
 **Libraries/APIs**: Antd UI, Moralis NFT API, recharts
 
-**Deployment**: [Your deployment choice e.g., Heroku, DigitalOcean, etc.]
+
 
